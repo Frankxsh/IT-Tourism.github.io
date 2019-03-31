@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/index.html" line="531" />
+    <bookmark url="file://$PROJECT_DIR$/index.html" line="528" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fcb88c6-689d-4535-8b6d-4df2f42b47f7" name="Default Changelist" comment="" />
@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="525" column="14" selection-start-line="525" selection-start-column="9" selection-end-line="525" selection-end-column="14" />
+            <state relative-caret-position="-2778">
+              <caret line="193" column="20" selection-start-line="193" selection-start-column="20" selection-end-line="193" selection-end-column="20" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -31,11 +31,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="4" column="22520" selection-start-line="4" selection-start-column="22520" selection-end-line="4" selection-end-column="22520" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="748" column="39" lean-forward="true" selection-start-line="748" selection-start-column="39" selection-end-line="748" selection-end-column="39" />
+            <state relative-caret-position="180">
+              <caret line="745" column="1" lean-forward="true" selection-start-line="745" selection-start-column="1" selection-end-line="745" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -134,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554011147613</updated>
-      <workItem from="1554011152211" duration="18064000" />
+      <workItem from="1554011152211" duration="18651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18064000" />
+    <option name="totallyTimeSpent" value="18651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -223,13 +232,6 @@
     <entry file="file://$PROJECT_DIR$/images/testimon2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="4" column="15843" selection-start-line="4" selection-start-column="15843" selection-end-line="4" selection-end-column="15843" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -257,10 +259,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="4" column="22520" selection-start-line="4" selection-start-column="22520" selection-end-line="4" selection-end-column="22520" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="525" column="14" selection-start-line="525" selection-start-column="9" selection-end-line="525" selection-end-column="14" />
+        <state relative-caret-position="-2778">
+          <caret line="193" column="20" selection-start-line="193" selection-start-column="20" selection-end-line="193" selection-end-column="20" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -275,8 +284,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="748" column="39" lean-forward="true" selection-start-line="748" selection-start-column="39" selection-end-line="748" selection-end-column="39" />
+        <state relative-caret-position="180">
+          <caret line="745" column="1" lean-forward="true" selection-start-line="745" selection-start-column="1" selection-end-line="745" selection-end-column="1" />
         </state>
       </provider>
     </entry>
