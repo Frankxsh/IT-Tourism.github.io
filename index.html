@@ -523,7 +523,7 @@
 <div class="w3-map" id="customer">
     <h3 class="text-center">TRAILER FROM OUR CUSTOMERS</h3>
     <div class="video-container center-block">
-        <video width="320" height="240" controls src="IT.mp4" type="video/mp4" poster="images/man.jpg">
+        <video preload width="320" height="240" controls src="IT.mp4" type="video/mp4" poster="images/man.jpg">
             您的浏览器不支持 video 标签。
         </video>
     </div>
@@ -591,6 +591,12 @@
 <!-- //Script chocolat -->
 <!-- script responsive tabs -->
 <script type="text/javascript">
+    video.addEventListener("progress", function() {
+　　// When buffer is 1 whole video is buffered
+　　if (Math.round(video.buffered.end(0)) / Math.round(video.seekable.end(0)) === 1) {
+　　// Entire video is downloaded
+　　}
+　　}, false);
     $(document).ready(function () {
 
         $('#parentHorizontalTab').easyResponsiveTabs({
