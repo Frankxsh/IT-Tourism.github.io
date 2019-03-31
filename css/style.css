@@ -135,9 +135,9 @@ nav.navbar.w3-navbar {
 .heading h1 {
     margin: auto;
     width: 45%;
-    padding: 30px;
+    padding: 35px;
     color: #fff;
-    font-size: 60px;
+    font-size: 50px;
     text-transform: uppercase;
     text-align: center;
     font-weight: bold;
@@ -152,7 +152,7 @@ nav.navbar.w3-navbar {
 /* About */
 div#about {
     padding: 5% 0px;
-	background: url(../images/b3.jpg) no-repeat;
+	background: url(../images/us.jpg) no-repeat fixed;
  /*   min-height: 100vh; */
 	color: #fff;
     text-transform: capitalize;
@@ -205,14 +205,14 @@ div#about h2 {
 	margin-bottom: 15px;
 }
 .modal-header {
-    font-size: 30px;
+    font-size: 20px;
     padding: 5px;
 	    color: #020202;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
 div#about .modal-body p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 35px;
     margin-top: 10px;
     color: black;
@@ -223,7 +223,7 @@ div#about .modal-body p {
 div#service {
     padding: 5% 0px;
 	min-height: 400px;
-    background-color: #CC333F;
+    background-color: #00b3b3;
     color: #fff;
 }
 ul.service1 span.fa {
@@ -258,12 +258,12 @@ ul.service1 li h4 {
     text-transform: uppercase;
 }
 ul.service1 span.fa:hover {
-    background-color: #ff0505;
+    background-color: #ff99cc;
     color: #FFEB3B;
 	border-color: #ffffff;
 }
 ul.service1 li:hover span.fa {
-    background-color: #ff0505;
+    background-color: #0099ff;
     color: #FFEB3B;
     border-color: #ffffff;
 }
@@ -322,7 +322,7 @@ a.tabs {
 .resp-tab-active {
     border: 0px solid #dc143c !important;
     padding: 7px 25px !important;
-     background-color: red !important;
+    background-color:  #ff99dd !important;
 }
 .resp-tab-active span {
     color: white !important;
@@ -743,6 +743,10 @@ ul.contact-icons span.fa:hover {
 	opacity: 0;
 	-moz-opacity: 0;
 	filter: alpha(opacity=0);
+}
+video {border:20px solid #000;
+    border-radius: 8px !important;
+    background: transparent url('/images/cus.jpg') 50% 50% / cover no-repeat ;
 }
 /*-- //to-top --*/
 
