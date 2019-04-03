@@ -296,6 +296,10 @@ h3.center {
 		letter-spacing: 2px;
     text-align: center;
 }
+
+.yj div{
+   border-radius:35px;
+}
 .taba {
     padding: 0;
 }
@@ -1302,6 +1306,7 @@ h4.price {
 	textarea {
 		height: 110px;
 }
+
 div#about {
     background-position: 43% center;
 }
